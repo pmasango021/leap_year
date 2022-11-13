@@ -1,0 +1,11 @@
+# ninja log v5
+1	744	6900752188105266	CMakeFiles/leap_year.dir/main.cpp.obj	aa55eecd49d114fe
+748	1068	6900752191107768	leap_year.exe	bb9c52f8b3c2ac62
+11	816	6900752553447916	CMakeFiles/leap_year.dir/main.cpp.obj	aa55eecd49d114fe
+817	1143	6900752556331391	leap_year.exe	bb9c52f8b3c2ac62
+14	1036	6900755216326711	CMakeFiles/leap_year.dir/main.cpp.obj	aa55eecd49d114fe
+1037	2627	6900755221640759	leap_year.exe	bb9c52f8b3c2ac62
+8	952	6900756191772443	CMakeFiles/leap_year.dir/main.cpp.obj	aa55eecd49d114fe
+953	1310	6900756195136243	leap_year.exe	bb9c52f8b3c2ac62
+6	919	6900757160466462	CMakeFiles/leap_year.dir/main.cpp.obj	aa55eecd49d114fe
+920	1232	6900757163424224	leap_year.exe	bb9c52f8b3c2ac62
